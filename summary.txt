@@ -1,0 +1,184 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         457
+	Longest value:         7 characters
+	Most common values:    None (353x)
+	                       B001294 (28x)
+	                       C001105 (22x)
+	                       W000809 (22x)
+	                       C001111 (19x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         497
+	Longest value:         35 characters
+	Most common values:    CHIEF ADMIN OFCR OF THE HOUSE (47x)
+	                       HON. ROD BLUM (28x)
+	                       SUPPLIES AND MATERIALS (28x)
+	                       COMMITTEE ON ENERGY & COMMERCE (27x)
+	                       HON. BARBARA COMSTOCK (22x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (3950x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         9
+	Longest value:         30 characters
+	Most common values:    OFFICIAL EXPENSES OF MEMBERS (3597x)
+	                       GENERAL EXPENDITURES (234x)
+	                       ADMIN AND OPS (29x)
+	                       SUPPLIES AND MATERIALS (28x)
+	                       SALARIES  OFFICERS & EMPLOYEES (20x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         25 characters
+	Most common values:    PRINTING AND REPRODUCTION (3950x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         74
+	Smallest value:        2017-01-03
+	Largest value:         2017-03-31
+	Most common values:    2017-01-27 (237x)
+	                       2017-02-23 (219x)
+	                       2017-03-28 (201x)
+	                       2017-03-31 (167x)
+	                       2017-02-16 (155x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         3
+	Longest value:         2 characters
+	Most common values:    AP (3355x)
+	                       GL (592x)
+	                       AR (3x)
+
+  8. "RECORDID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         2947
+	Longest value:         10 characters
+	Most common values:    PIX0065253 (194x)
+	                       PIX0066009 (184x)
+	                       PIX0066926 (157x)
+	                       912662 (138x)
+	                       900647 (84x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         524
+	Longest value:         40 characters
+	Most common values:    ACCURATE WORD LLC (1404x)
+	                       None (592x)
+	                       DAVID L ANDRUKITIS INC (471x)
+	                       PUBLIC PRINTER (206x)
+	                       XEROX CORPORATION (179x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         246
+	Smallest value:        2013-12-26
+	Largest value:         2017-12-30
+	Most common values:    2017-02-01 (256x)
+	                       2017-01-01 (231x)
+	                       2016-12-30 (205x)
+	                       2017-03-01 (182x)
+	                       2017-01-03 (102x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         227
+	Smallest value:        2013-12-26
+	Largest value:         2018-01-11
+	Most common values:    2017-02-28 (306x)
+	                       2017-01-31 (265x)
+	                       2016-12-30 (233x)
+	                       2017-03-31 (160x)
+	                       2016-12-28 (117x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         9
+	Longest value:         32 characters
+	Most common values:    PRINTING & REPRODUCTION (3106x)
+	                       PHOTOGRAPHIC (TRANSFER) (535x)
+	                       ADVERTISEMENTS (233x)
+	                       REPRODUCTION OF FED/PUBLIC LAW (57x)
+	                       MISCELLANEOUS PRINTING (15x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         1875
+	Smallest value:        -6,977
+	Largest value:         79,413.88
+	Sum:                   2,827,264.72
+	Mean:                  715.763
+	Median:                79.9
+	StDev:                 3,468.527
+	Most common values:    29.95 (215x)
+	                       39.95 (164x)
+	                       40 (73x)
+	                       69.95 (72x)
+	                       21.5 (67x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         6
+	Smallest value:        2,013
+	Largest value:         2,018
+	Sum:                   7,965,928
+	Mean:                  2,016.691
+	Median:                2,017
+	StDev:                 0.47
+	Most common values:    2,017 (2733x)
+	                       2,016 (1209x)
+	                       2,015 (4x)
+	                       2,018 (2x)
+	                       2,014 (1x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         524
+	Longest value:         40 characters
+	Most common values:    ACCURATE WORD LLC (1404x)
+	                       None (592x)
+	                       DAVID L ANDRUKITIS INC (471x)
+	                       PUBLIC PRINTER (206x)
+	                       XEROX CORPORATION (179x)
+
+Row count: 3950
