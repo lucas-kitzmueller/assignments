@@ -19,6 +19,9 @@ print("I'm going use the calculator functions to multiply 5 and 6")
 x = multiply(5,6)
 print(x)
 
+print("dividing 20 by 5")
+x = divide(20,5)
+print(x)
 
 def square(a):
 	return a**2
@@ -26,8 +29,9 @@ def square(a):
 def cube(a):
 	return a**3
 
-def square_n_times(a,b)
+def square_n_times(a,b):
 	return a**b
 
-
-
+print("taking cube of 2 with square_n_times")
+x = square_n_times(2,3)
+print(x)
