@@ -20,7 +20,8 @@ cat expensive_water.csv | csvstat > expensive_water_summary.txt
 echo "First, I downloaded a dataset that seems to list the expenditures of members of the House of Representatives 
 for their Washington and and district offices in the first quarter of 2017. (https://projects.propublica.org/represent/expenditures). 
 Second, I filtered all expenses with the purpose water and an amount above 1000 using the python script.
-Third, I created summary statistics using csvstat." > expensive_water_description.txt
+Third, I created summary statistics using csvstat.
+(also use terminology, like piping or )" > expensive_water_description.txt
 
 # Done
 echo "Homework 1 - Part 1: Done"
