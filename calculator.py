@@ -15,6 +15,7 @@ def subtract(a,b):
 def divide(a,b): 
 	return a/b
 
+# testing with some examples
 print("I'm going use the calculator functions to multiply 5 and 6")
 x = multiply(5,6)
 print(x)
@@ -32,6 +33,7 @@ def cube(a):
 def square_n_times(a,b):
 	return a**b
 
+# testing
 print("taking cube of 2 with square_n_times")
 x = square_n_times(2,3)
 print(x)
